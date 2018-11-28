@@ -1,3 +1,27 @@
-body{
-  background-color: #225470;
+
+.jumbotron{
+  background-image: url(../images/background-3828004_1920.jpg);
+  background-size: cover;
+}
+
+
+#bcm-homepage-tiles {
+    margin-bottom: 40px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.col {
+    float: left;
+}
+.col1 {
+    width: 100%;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
 }
