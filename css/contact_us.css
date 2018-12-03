@@ -3,6 +3,37 @@ body {
   background-size: cover;
 }
 
+.contact_us {
+    padding-left: 600px;
+    padding-top: 150px;
+}
+
+h1 {
+  color: white;
+  text-shadow: 2px 2px 6px black;
+  padding-top: 60px;
+}
+
+h3 {
+  color: white;
+  text-shadow: 2px 2px 6px #832323;
+}
+
+p {
+  font-size: 20px;
+  color: black;
+  text-shadow: 2px 2px 6px white;
+  font-weight:700;
+}
+
+input {
+  font-size: 15px;
+}
+
+.checkbox {
+  color: white;
+  text-shadow: 2px 2px 6px #832323;
+}
 
 .fa {
   padding: 20px;
@@ -40,5 +71,5 @@ body {
 }
 
 .social-media {
-  padding-left: 530px;
+  padding-left: 832px;
 }
