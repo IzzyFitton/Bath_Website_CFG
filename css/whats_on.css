@@ -19,3 +19,10 @@ user agent stylesheet
 div {
     display: block;
 }
+
+.btn{
+  background: #DB4B0E;
+  color: #fff;
+  font-size:1.2rem;
+  text-decoration: none;
+}
