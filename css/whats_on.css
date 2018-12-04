@@ -26,3 +26,8 @@ div {
   font-size:1.2rem;
   text-decoration: none;
 }
+
+video {
+  width: 100%;
+  height: auto;
+}
