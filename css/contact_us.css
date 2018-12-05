@@ -1,8 +1,8 @@
 body {
   background-image: url(../images/christmas-2918569_1920.jpg);
-  background-size: ;
+  background-size: cover;
   background-position: bottom;
-  padding-bottom: 200px;
+  padding-bottom: 30px;
 }
 
 li {
@@ -48,9 +48,6 @@ button {
 }
 
 .social-media {
-  position: absolute;
-  top: 600px;
-  right: 0;
 
 }
 .fa {
