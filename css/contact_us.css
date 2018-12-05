@@ -40,6 +40,19 @@ input {
   text-shadow: 2px 2px 6px #832323;
 }
 
+button {
+  background-color: green;
+  border-radius: 12px;
+  width: auto;
+  border: none;
+}
+
+.social-media {
+  position: absolute;
+  top: 600px;
+  right: 0;
+
+}
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -72,9 +85,4 @@ input {
   background: #fffc00;
   color: white;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-
-}
-
-.social-media {
-  padding-left: 832px;
 }
