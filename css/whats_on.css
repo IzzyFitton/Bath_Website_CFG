@@ -1,9 +1,12 @@
 
 .jumbotron{
   background-image: url(../images/background-3828004_1920.jpg);
-  background-size: cover;
+  background-size: auto;
 }
 
+li {
+  padding-left: 50px;
+}
 
 .col {
     float: left;

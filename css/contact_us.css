@@ -1,11 +1,15 @@
 body {
   background-image: url(../images/christmas-2918569_1920.jpg);
-  background-size: cover;
+  background-size: ;
   background-position: bottom;
+  padding-bottom: 200px;
 }
 
+li {
+  padding-left: 50px;
+}
 .contact_us {
-    padding-left: 600px;
+    padding-left: 500px;
     padding-top: 150px;
 }
 
